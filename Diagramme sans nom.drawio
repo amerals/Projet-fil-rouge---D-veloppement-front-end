@@ -1,17 +1,17 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0" version="24.7.12">
   <diagram name="Page-1" id="jlt8fodOVv4K1a1jERJl">
-    <mxGraphModel dx="1037" dy="1794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1037" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Hi3eLZHkq1opFxPA8Br6-1" value="&lt;br&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="169" y="-10" width="561" height="630" as="geometry" />
+          <mxGeometry x="169" width="561" height="660" as="geometry" />
         </mxCell>
         <mxCell id="Hi3eLZHkq1opFxPA8Br6-2" value="Quai antique" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="560" y="10" width="160" height="40" as="geometry" />
+          <mxGeometry x="560" y="11" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Hi3eLZHkq1opFxPA8Br6-3" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Inscription&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="264" y="530" width="150" height="70" as="geometry" />
+          <mxGeometry x="240" y="570" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Hi3eLZHkq1opFxPA8Br6-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Hi3eLZHkq1opFxPA8Br6-4" target="Hi3eLZHkq1opFxPA8Br6-11">
           <mxGeometry relative="1" as="geometry" />
@@ -37,11 +37,14 @@
         <mxCell id="Hi3eLZHkq1opFxPA8Br6-9" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;cas d&#39;utilisation&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="310" width="170" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="Hi3eLZHkq1opFxPA8Br6-23" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/font&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="1" source="Hi3eLZHkq1opFxPA8Br6-10" target="Hi3eLZHkq1opFxPA8Br6-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Hi3eLZHkq1opFxPA8Br6-10" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Connexion&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="460" width="140" height="60" as="geometry" />
+          <mxGeometry x="505" y="480" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hi3eLZHkq1opFxPA8Br6-11" value="&lt;div&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Réserver une&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;table&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="450" width="160" height="60" as="geometry" />
+          <mxGeometry x="200" y="480" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hi3eLZHkq1opFxPA8Br6-12" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;cas d&#39;utilisation&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="350" width="170" height="80" as="geometry" />
