@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Hi3eLZHkq1opFxPA8Br6-1" value="&lt;br&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="130" y="-140" width="680" height="790" as="geometry" />
+          <mxGeometry x="130" y="-134" width="680" height="790" as="geometry" />
         </mxCell>
         <mxCell id="Hi3eLZHkq1opFxPA8Br6-2" value="Quai antique" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="610" y="-90" width="160" height="40" as="geometry" />
@@ -53,11 +53,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="840.7800000000001" y="284.50732273095355" as="sourcePoint" />
             <mxPoint x="249.21145750507617" y="235.49873734152925" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Hi3eLZHkq1opFxPA8Br6-31" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Hi3eLZHkq1opFxPA8Br6-25">
-          <mxGeometry x="0.5814" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Hi3eLZHkq1opFxPA8Br6-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Visiteur&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=3;" vertex="1" parent="1">
